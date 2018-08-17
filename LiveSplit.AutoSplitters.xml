@@ -3363,6 +3363,18 @@
     <Description>Autosplitter for The End Is Nigh.</Description>
     <Website>https://github.com/Grimelios/LiveSplit.TheEndIsNigh</Website>
     <ShowInLayoutEditor />
+  </AutoSplitter>	
+  <AutoSplitter>
+    <Games>
+      <Game>Crash Bandicoot: N. Sane Trilogy</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Grimelios/LiveSplit.Crash/master/Components/LiveSplit.Crash.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Autosplitter for Crash Bandicoot N. Sane Trilogy.</Description>
+    <Website>https://github.com/Grimelios/LiveSplit.Crash</Website>
+    <ShowInLayoutEditor />
   </AutoSplitter>
   <AutoSplitter>
     <Games>
